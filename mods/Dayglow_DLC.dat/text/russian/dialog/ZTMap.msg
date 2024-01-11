@@ -25,10 +25,10 @@
 {120}{}{}
 {121}{}{After a long journey, you return to your native village. But instead of greeting you, Villa greets you with sullen silence.}
 {122}{}{}
-{123}{}{You go down to the cellars. It smells damp and rat droppings.}
+{123}{}{You descend into the cellar. The air is damp, and the smell of rat droppings permeates the space.}
 {124}{}{}
-{125}{}{You have come to Flagstaff Colony. It's unexpectedly crowded here.}
-{126}{}{Here is a garrison and a colony correctional facility. Behind bars you find your fellow tribesmen.}
+{125}{}{You have arrived at the Flagstaff Colony. It's unexpectedly crowded here.}
+{126}{}{You see a garrison and a colony correctional facility. Behind bars, you find your fellow tribesmen.}
 {127}{}{}
 {128}{}{Ruins of the old city. The depressing appearance of these ruins does not inspire confidence.}
 {129}{}{You are standing at the gates of Garage City. The smell of rust and rubber reeks from this settlement a mile away.}
@@ -36,29 +36,29 @@
 {131}{}{}
 {132}{}{The way to the nomads' camp is suddenly blocked by a military detachment.}
 {133}{}{You have entered a tribal camp lost among the dunes.}
-{134}{}{You have come to the pens. The persistent smell of cattle can be felt already a mile away.}
-{135}{}{You have come to the settlement of tinsmiths. Unusual buildings built of aviation equipment can be seen behind the gates.}
+{134}{}{You have arrived at the pens. The persistent odor of cattle can be detected from a mile away.}
+{135}{}{You have come to the settlement of tinsmiths. Unusual buildings made from aviation equipment can be seen behind the gates.}
 {136}{}{}
 {137}{}{}
 {138}{}{It seems that this bunker has been abandoned for a hundred years.}
 {139}{}{Ahead you notice old ruins. Judging by the humid air, there should be a sea behind them.}
 {140}{}{You found yourself at a small pier.}
-{141}{}{For the first time in your life you were on the deck of a destroyer.}
+{141}{}{For the first time in your life you find yourself on the deck of a destroyer.}
 {142}{}{}
-{143}{}{The road led you to the dam. On its top, the ranger bastion is unapproachably located.}
+{143}{}{The road led to the dam, on top of which the ranger bastion is located and is unapproachable.}
 {144}{}{}
 {145}{}{}
 {146}{}{You have reached a huge city located among ancient ruins. Its gloomy streets greet you with heavy smog.}
 {147}{}{}
 {148}{}{These slums seem unsafe. You should always be on your guard here.}
-{149}{}{An ornate building towers over the city. A crowd of people wanders aimlessly in front of him.}
+{149}{}{An ornate building towers over the city. A crowd of people wanders aimlessly in front of it.}
 {150}{}{}
 {151}{}{}
 {152}{}{}
 {153}{}{}
 {154}{}{}
 {155}{}{This place is surrounded by impassable ruins. No wonder it's hard to find.}
-{156}{}{The premises of the Vault seem to be emptied. As if everything useful was taken out of here, and for a very long time.}
+{156}{}{The premises of the Vault seem to be emptied. As if everything useful was taken out of here for a very long time.}
 {157}{}{You have come to the small town of Casa Grande, located in the middle of the caravan route.}
 {158}{}{}
 {159}{}{}
@@ -79,21 +79,21 @@
 {174}{}{}
 {175}{}{}
 {176}{}{The echo of your footsteps breaks the silence of the cathedral.}
-{177}{}{Here is a graveyard of long-forgotten technologies.}
+{177}{}{You see a graveyard of long-forgotten technologies.}
 {178}{}{}
 {179}{}{You have come to the ancient ruins. No one has lived here for a very long time.}
 {180}{}{The shores of Colorado are overgrown with prickly vegetation, in which various game can hide.}
 {181}{}{}
-{182}{}{Time has not spared this place — dilapidated buildings collapsed, and sandstorms covered the ruins with a layer of sand.}
+{182}{}{Time has not spared this place â€” dilapidated buildings collapsed, and sandstorms covered the ruins with a layer of sand.}
 {183}{}{}
 {184}{}{}
 {185}{}{}
 {186}{}{}
 {187}{}{}
-{188}{}{You are almost desperate in search of human settlements, when suddenly a small ranch appears ahead.}
+{188}{}{You are almost desperate in search of human settlements when suddenly a small ranch appears ahead.}
 {189}{}{The desert smoothly turns into dilapidated one-story blocks. It looks like a military garrison has settled here.}
 {190}{}{After passing the old quarters, you climb to the fort on the hill of Cerro de la Campana.}
-{191}{}{Externally, this old school looks dilapidated and abandoned. Being inside, you should be careful.}
+{191}{}{From the outside, this old school looks dilapidated and abandoned. Being inside, you should be careful.}
 {192}{}{}
 {193}{}{}
 {194}{}{It looks like the Rangers periodically monitor this water pump. At least it works.}
@@ -123,7 +123,7 @@
 {218}{}{}
 {219}{}{}
 {220}{}{It seems that you accidentally got on someone's holiday.}
-{221}{}{Here is an ancient monument. It looks like it has been standing here for many decades and even more.}
+{221}{}{You see an ancient monument. It looks like it has been standing here for many decades and even more.}
 {222}{}{In front of you is an ancient cemetery. So ancient that it is completely overgrown with desert plants.}
 {223}{}{}
 {224}{}{}
